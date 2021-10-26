@@ -9,4 +9,3 @@ Lab 4: Creating and running GUI classes for Potluck and SOS game.
 Lab 5: Creating and implementing Hangman Game MVC architecture and GUI.
 Lab 6: Solving simple Java based problems using recursion.
 Lab 7: Creating and implementing Data Structures: Nodes, Linked Lists and Stacks
- 
