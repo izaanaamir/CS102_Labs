@@ -14,4 +14,4 @@ My solutions to the labs of Bilkent University's Algorithms and Programming II c
 
 `Lab 6`: Solving simple Java based problems using recursion.
 
-`Lab 7`: Creating and implementing Data Structures: Nodes, Linked Lists and Stacks
+`Lab 7`: Creating and implementing Data Structures: Nodes, Linked Lists, Queues and Stacks
